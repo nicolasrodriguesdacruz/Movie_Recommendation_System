@@ -7,5 +7,3 @@ This notebook builds a movie recommendation system using a dataset with movie de
 - **Feature Engineering**: Expanding genres into individual rows and counting unique genres for better analysis.
 - **Modeling**: Implementing recommendation algorithms such as collaborative filtering and content-based filtering.
 - **Evaluation**: Using metrics to assess model performance and recommend improvements.
-
-This notebook is a complete guide for building and evaluating a recommendation system.
